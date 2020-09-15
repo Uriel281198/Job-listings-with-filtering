@@ -1,4 +1,14 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+##Challenge from https://www.frontendmentor.io/challenges/job-listings-with-filtering-ivstIPCt
+
+
+## Screens 
+
+![first](https://raw.githubusercontent.com/Uriel281198/Job-listings-with-filtering/master/screencapture-job-listings-with-filtering-web-app-2020-09-15-09_10_41.png)
+
+![first](https://raw.githubusercontent.com/Uriel281198/Job-listings-with-filtering/master/screencapture-job-listings-with-filtering-web-app-2020-09-15-09_10_29.png)
+
+
+
 
 ## Available Scripts
 
