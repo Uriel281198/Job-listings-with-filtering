@@ -66,6 +66,7 @@ export const Card = styled.div`
     background-color:#fff;
     box-shadow: 5px 10px 18px rgba(0,0,0,0.1);    
     border-left:4px solid transparent;    
+    margin-bottom:50px;
     &:last-child{
       margin-bottom:25px;
     }
@@ -131,7 +132,8 @@ export const Card = styled.div`
       
       width:80%;  
       display:flex;    
-      align-items:center;                 
+      align-items:center;  
+      margin-bottom:20px;               
       .Logo{
       width:8%;                        
     } 
